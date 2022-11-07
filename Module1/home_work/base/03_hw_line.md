@@ -18,7 +18,11 @@
 ### Решение задачи
 
 ```python
-# TODO: you code here...
+import math
+v = int(input("скорость "))
+t = int(input("время "))
+l = v * t
+print(l % 109)
 ```
 
 ---
