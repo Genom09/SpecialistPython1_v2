@@ -15,7 +15,8 @@
 ### Решение задачи
 
 ```python
-# TODO: you code here...
+var1 = int(input("число "))
+print("Да" if var1%10 == 5 else "Нет")
 ```
 
 ---
